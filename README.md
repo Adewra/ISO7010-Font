@@ -11,7 +11,7 @@ I am aware that ISO 7010 has been superceeded by EN 7010. In the future, I plan 
 The remaining categories are:
 fire safety, mandatory actions, prohibiton and safe conditions
 
-<br><br>
+## Warning Symbols
 
 Symbol | Title | Description | Reference | Unicode
 --- | --- | --- | --- | ---
