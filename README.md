@@ -47,4 +47,4 @@ Symbol | Title | Description | Reference | Unicode
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008566_200.png "ISO 7010 W022") | Warning; Sharp element | To warn of a sharp element | W022 | 0xE815
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008567_200.png "ISO 7010 W023") | Warning; Corrosive substance | To warn of a corrosive substance | W023 | 0xE816
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008568_200.png "ISO 7010 W024") | Warning; Crushing of hands | To warn of a closing motion of mechanical parts of equipment | W024 | 0xE817
-![alt text](https://www.iso.org/iobp/graphics/grs/ISO008569_200.png "ISO 7010 W025") | Warning; Counterrotating rollers | To warn of counterrotating rollers | W025 | 0xE818
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008465_200.png "ISO 7010 W025") | Warning; Counterrotating rollers | To warn of counterrotating rollers | W025 | 0xE818
