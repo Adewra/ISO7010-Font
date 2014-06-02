@@ -39,3 +39,12 @@ Symbol | Title | Description | Reference | Unicode
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008558_200.png "ISO 7010 W014") | Warning; Forklift trucks and other industrial vehicles | To warn of a forklift truck and other industrial vehicles | W014 | 0xE80D
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008559_200.png "ISO 7010 W015") | Warning; Overhead load | To warn of an overhead load | W015 | 0xE80E
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008560_200.png "ISO 7010 W016") | Warning; Toxic material | To warn of toxic material | W016 | 0xE80F
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008561_200.png "ISO 7010 W017") | Warning; Hot surface | To warn of a hot surface | W017 | 0xE810
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008562_200.png "ISO 7010 W018") | Warning; Automatic start-up | To warn of automatic activation | W018 | 0xE811
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008563_200.png "ISO 7010 W019") | Warning; Crushing | To warn of moving mechanical parts | W019 | 0xE812
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008564_200.png "ISO 7010 W020") | Warning; Overhead obstacle | o warn of an overhead obstacle | W020 | 0xE813
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008565_200.png "ISO 7010 W021") | Warning; Flammable material| To warn of flammable material | W021 | 0xE814
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008566_200.png "ISO 7010 W022") | Warning; Sharp element | To warn of a sharp element | W022 | 0xE815
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008567_200.png "ISO 7010 W023") | Warning; Corrosive substance | To warn of a corrosive substance | W023 | 0xE816
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008568_200.png "ISO 7010 W024") | Warning; Crushing of hands | To warn of a closing motion of mechanical parts of equipment | W024 | 0xE817
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008569_200.png "ISO 7010 W025") | Warning; Counterrotating rollers | To warn of counterrotating rollers | W025 | 0xE818
