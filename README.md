@@ -48,3 +48,10 @@ Symbol | Title | Description | Reference | Unicode
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008567_200.png "ISO 7010 W023") | Warning; Corrosive substance | To warn of a corrosive substance | W023 | 0xE816
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008568_200.png "ISO 7010 W024") | Warning; Crushing of hands | To warn of a closing motion of mechanical parts of equipment | W024 | 0xE817
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008465_200.png "ISO 7010 W025") | Warning; Counterrotating rollers | To warn of counterrotating rollers | W025 | 0xE818
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008466_200.png "ISO 7010 W026") | Warning; Battery charging | To warn of batteries being charged | W026 | 0xE819
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008569_200.png "ISO 7010 W027") | Warning; Optical radiation | To warn of optical radiation | W027 | 0xE81A
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008468_200.png "ISO 7010 W028") | Warning; Oxidizing substance | To warn of an oxidizing substance | W028 | 0xE81B
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008469_200.png "ISO 7010 W029") | Warning; Pressurized cylinder | To warn of a pressurized cylinder | W029 | 0xE81C
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008470_200.png "ISO 7010 W030") | Warning; Hand crushing between press brake tool | To warn of the closing jaws of a press brake tool | W030 | 0xE81D
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008471_200.png "ISO 7010 W031") | Warning; Hand crushing between press brake and material | To warn of the danger of hands being caught between a workpiece and the moving parts of a press brake | W031 | 0xE81E
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO011220_200.png "ISO 7010 W032") | Warning; Rapid movement of workpiece in press brake | To warn of possible movement/deflection of a workpiece when operating a press brake | W032 | 0xE81F
