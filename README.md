@@ -20,10 +20,8 @@ Symbol | Title | Description | Reference | Unicode
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008547_200.png "ISO 7010 W003") | Warning; Radioactive material or ionizing radiation | To warn of radioactive materials or ionizing radiation | W003 | 0xE802
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008548_200.png "ISO 7010 W004") | Warning; Laser beam | To warn of a laser beam | W004 | 0xE803
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008549_200.png "ISO 7010 W005") | Warning; Non-ionizing radiation | To warn of non-ionizing radiation | W005 | 0xE804
-![alt text](https://www.iso.org/iobp/graphics/grs/ISO008550_200.png "ISO 7010 W006") | Warning; Magnetic field | 
-To warn of a magnetic field | W006 | 0xE805
-![alt text](https://www.iso.org/iobp/graphics/grs/ISO008551_200.png "ISO 7010 W007") | 
-Warning; Floor-level obstacle | To warn of a floor-level obstacle | W007 | 0xE806
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008550_200.png "ISO 7010 W006") | Warning; Magnetic field | To warn of a magnetic field | W006 | 0xE805
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008551_200.png "ISO 7010 W007") | Warning; Floor-level obstacle | To warn of a floor-level obstacle | W007 | 0xE806
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008552_200.png "ISO 7010 W008") | Warning; Drop (fall) | To warn of a drop | W008 | 0xE807
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008553_200.png "ISO 7010 W009") | Warning; Biological hazard | 
 To warn of a biological hazard | W009 | 0xE808
