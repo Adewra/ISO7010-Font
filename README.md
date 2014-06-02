@@ -25,4 +25,4 @@ Symbol | Title | Description | Reference | Unicode
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008552_200.png "ISO 7010 W008") | Warning; Drop (fall) | To warn of a drop | W008 | 0xE807
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008553_200.png "ISO 7010 W009") | Warning; Biological hazard | To warn of a biological hazard | W009 | 0xE808
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008554_200.png "ISO 7010 W010") | Warning; Low temperature | To warn of low temperature or freezing conditions | W010 | 0xE809
-![alt text](https://www.iso.org/iobp/graphics/grs/ISO00855_200.png "ISO 7010 W011") | Warning; Slippery surface | To warn of a slippery surface | W011 | 0xE80A
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008555_200.png "ISO 7010 W011") | Warning; Slippery surface | To warn of a slippery surface | W011 | 0xE80A
