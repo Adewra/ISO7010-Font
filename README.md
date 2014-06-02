@@ -15,4 +15,4 @@ fire safety, mandatory actions, prohibiton and safe conditions
 
 Symbol | Title | Description | Reference | Unicode
 --- | --- | --- | --- | ---
-![alt text](https://www.iso.org/iobp/graphics/grs/ISO008545_200.png "ISO 7010 W001") | General warning sign | To signify a general warning | W001 | ???
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008545_200.png "ISO 7010 W001") | General warning sign | To signify a general warning | W001 | 0xE800
