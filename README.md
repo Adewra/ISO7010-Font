@@ -7,6 +7,13 @@ I am aware that ISO 7010 has been superceeded by EN 7010. In the future, I plan 
 
 <br><br>
 
+At the moment, only warning symbols have been done.
+
+The remaining categories are:
+fire safety, mandatory actions, prohibiton and safe conditions
+
+<br><br>
+
 Symbol | Title | Description | Reference | Unicode
 --- | --- | --- | --- | ---
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008545_200.png "ISO 7010 W001") | General warning sign | To signify a general warning | W001 | ???
