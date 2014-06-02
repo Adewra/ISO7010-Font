@@ -55,3 +55,9 @@ Symbol | Title | Description | Reference | Unicode
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO011207_200.png "ISO 7010 W030") | Warning; Hand crushing between press brake tool | To warn of the closing jaws of a press brake tool | W030 | 0xE81D
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO011208_200.png "ISO 7010 W031") | Warning; Hand crushing between press brake and material | To warn of the danger of hands being caught between a workpiece and the moving parts of a press brake | W031 | 0xE81E
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO011220_200.png "ISO 7010 W032") | Warning; Rapid movement of workpiece in press brake | To warn of possible movement/deflection of a workpiece when operating a press brake | W032 | 0xE81F
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO011209_200.png "ISO 7010 W033") | Warning; Barbed wire | To warn of barbed wire | W033 | 0xE820
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO011210_200.png "ISO 7010 W034") | Warning; Bull | To warn of bulls | W034 | 0xE821
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO011211_200.png "ISO 7010 W035") | Warning; Falling objects | To warn of falling objects | W035 | 0xE822
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO011212_200.png "ISO 7010 W036") | Warning; Fragile roof | To warn of a fragile roof | W036 | 0xE823
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO011213_200.png "ISO 7010 W037") | Warning; Run over by remote operator controlled machine | To warn of a run over hazard by a remote operator controlled machine | W037 | 0xE824
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO011214_200.png "ISO 7010 W038") | Warning; Sudden loud noise | To warn of sudden loud noise | W038 | 0xE825
