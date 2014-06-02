@@ -58,6 +58,6 @@ Symbol | Title | Description | Reference | Unicode
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO011209_200.png "ISO 7010 W033") | Warning; Barbed wire | To warn of barbed wire | W033 | 0xE820
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO011210_200.png "ISO 7010 W034") | Warning; Bull | To warn of bulls | W034 | 0xE821
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO011211_200.png "ISO 7010 W035") | Warning; Falling objects | To warn of falling objects | W035 | 0xE822
-![alt text](https://www.iso.org/iobp/graphics/grs/ISO011212_200.png "ISO 7010 W036") | Warning; Fragile roof | To warn of a fragile roof | W036 | 0xE823
-![alt text](https://www.iso.org/iobp/graphics/grs/ISO011213_200.png "ISO 7010 W037") | Warning; Run over by remote operator controlled machine | To warn of a run over hazard by a remote operator controlled machine | W037 | 0xE824
-![alt text](https://www.iso.org/iobp/graphics/grs/ISO011214_200.png "ISO 7010 W038") | Warning; Sudden loud noise | To warn of sudden loud noise | W038 | 0xE825
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO011221_200.png "ISO 7010 W036") | Warning; Fragile roof | To warn of a fragile roof | W036 | 0xE823
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO176908_200.png "ISO 7010 W037") | Warning; Run over by remote operator controlled machine | To warn of a run over hazard by a remote operator controlled machine | W037 | 0xE824
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO011222_200.png "ISO 7010 W038") | Warning; Sudden loud noise | To warn of sudden loud noise | W038 | 0xE825
