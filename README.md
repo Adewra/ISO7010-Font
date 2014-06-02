@@ -35,3 +35,7 @@ Symbol | Title | Description | Reference | Unicode
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008554_200.png "ISO 7010 W010") | Warning; Low temperature | To warn of low temperature or freezing conditions | W010 | 0xE809
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008555_200.png "ISO 7010 W011") | Warning; Slippery surface | To warn of a slippery surface | W011 | 0xE80A
 ![alt text](https://www.iso.org/iobp/graphics/grs/ISO008556_200.png "ISO 7010 W012") | Warning; Electricity | To warn of electricty | W012 | 0xE80B
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008557_200.png "ISO 7010 W013") | Warning; Guard dog | To warn of electricty | W013 | 0xE80C
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008558_200.png "ISO 7010 W014") | Warning; Forklift trucks and other industrial vehicles | To warn of a forklift truck and other industrial vehicles | W014 | 0xE80D
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008559_200.png "ISO 7010 W015") | Warning; Overhead load | To warn of an overhead load | W015 | 0xE80E
+![alt text](https://www.iso.org/iobp/graphics/grs/ISO008560_200.png "ISO 7010 W016") | Warning; Toxic material | To warn of toxic material | W016 | 0xE80F
